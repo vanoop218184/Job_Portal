@@ -1,4 +1,4 @@
-### Job Portal Website
+# Job Portal Website
 
 ## Overview
 
@@ -10,4 +10,13 @@ This Job Portal Website is designed to connect job seekers with employers. The p
 3.Job Posting: Employers can create, edit, and delete job postings.
 
 ## Snaps
+### 1.Login page
 
+![login_page](first.png)
+<br>
+<br>
+<br>
+
+### 2.Home Page
+
+![Home_Page](home.png)
